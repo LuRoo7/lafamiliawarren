@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: crimson;
+}
+#subtitulo{
+    font-size: 35px;
+}
+#texto{
+    font-size: 20px;
+}
+.img1{
+    text-align: center;
+    margin: auto;
+    display: block;
+    width: 500px;
+}
+#lista1 {
+    font-size: 20px;
+}
+#lista2 {
+    font-size: 20px;
+}
+#lista3 {
+    font-size: 20px;
+}
+#formulario{
+    font-size: 50px;
+}
